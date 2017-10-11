@@ -32,9 +32,9 @@ For example:
 
 |id | number      | value                                  |
 | --- | --- | --- |
-|1  |'QUESTION 1' | '5656'                                 |
-|2  |'QUESTION 2' | '5666.36'                              |
-|3  |'QUESTION 3' | '0E290CDE-FD74-1BA6-D84D-7F1E9AD5BF05' |
+|1  |QUESTION 1 | 5656                                 |
+|2  |QUESTION 2 | 5666.36                              |
+|3  |QUESTION 3 | 0E290CDE-FD74-1BA6-D84D-7F1E9AD5BF05 |
 
 
 #### 4. Export:
